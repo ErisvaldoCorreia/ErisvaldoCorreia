@@ -1,6 +1,9 @@
 ### Hi there 👋
 My name is Erisvaldo Correia. I'm Mobile Developer.
 
+Desenvolvedor Mobile com experiência em React Native e tecnologias correlacionadas. Estudante assiduo de Flutter. 
+Estudande do programa Ignite da Rocketseat e em diversos cursos de Flutter e Javascript pela Udemy e DIO.
+
 <!--
 **ErisvaldoCorreia/ErisvaldoCorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
